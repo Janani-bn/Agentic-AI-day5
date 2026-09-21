@@ -95,4 +95,3 @@ An agentic AI system using LangChain's `@tool` decorator and `create_agent` to b
 
 ---
 
-*Part of the Agentic AI learning series — Day 5*
