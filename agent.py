@@ -9,11 +9,7 @@ This script:
 
 Requirements:
     pip install langchain langchain-google-genai langchain-community python-dotenv
-
-Set your Gemini API key as an environment variable before running:
-    export GOOGLE_API_KEY="your_api_key_here"
 """
-
 import os
 import sqlite3
 from langchain.agents import create_tool_calling_agent, AgentExecutor
